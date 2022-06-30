@@ -1,0 +1,72 @@
+.main-container{
+    // background-color: yellow;
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    border: 1px solid black;
+
+}
+.main-container section{
+        // border: 1px solid black;
+
+    min-width: 100%;
+    height: 100vh;
+    position: relative;
+    .multiSkills{
+        position: absolute;
+        font-size:5vh;
+        color: white;
+        top:5%;
+        left:33%;
+    }
+    .page6{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+
+}
+.resumeVille{
+    position: absolute;
+    // width:50%;
+    height:90vh;
+    left:30%;
+    bottom:10px;
+    // z-index: 20;
+    // padding-top: 180px;
+}
+
+.page9section{
+    display: flex;
+    align-items: center;
+    // justify-content: center;
+
+    justify-content: flex-end;
+    flex-direction: row;
+    
+}
+.page10section {
+    display: flex;
+    align-items: center;
+    // justify-content: center;
+
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.lastPage{
+    display: flex;
+    // position: fixed!important;
+    align-items: center;
+    justify-content: center;
+}
+.page11section{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+// }
+
